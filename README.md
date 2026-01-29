@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack developer<br><br>- 📚 I'm currently learning DevOps<br>- 📫 How to reach me ujjwal30moolchandani@gmail.com</p>
+<p align="left">I'm an Aspiring Analyst currently in my 3rd Year  of Engineering<br><br>- 📚 I'm currently upskilling myself on various technologies<br>- 📫 How to reach me ujjwal30moolchandani@gmail.com</p>
 
 ###
 
